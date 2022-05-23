@@ -1,1 +1,1 @@
-# Big-query-visualizer
+# Big-Query-Visualizer
